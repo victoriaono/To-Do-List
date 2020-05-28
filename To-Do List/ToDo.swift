@@ -6,4 +6,9 @@
 //  Copyright © 2020 Victoria Ono. All rights reserved.
 //
 
-import Foundation
+import UIKit
+
+class ToDo {
+    var name = ""
+    var important = false
+}
